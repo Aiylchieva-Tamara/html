@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');/*700 nav h3*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');/*600 nav a*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap');/*800 h1*/
 *{
     box-sizing: border-box;
 }
@@ -49,4 +50,11 @@ header{
 }
 .section-1-nav-div-1 li{
     list-style-type: none;
+}
+.section-1-div-h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 58px;
+    line-height: 80px;
+    color: #252B42;
+    width: 50%;
 }

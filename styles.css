@@ -68,3 +68,26 @@ header{
     margin-top: 35px;
     margin-bottom: 35px;
 }
+.button-1{
+    background: #FF7B47;
+    padding: 10px 36px;
+    border: 1px solid #FF7B47;
+    border-radius: 37px;
+    margin: 10px 0;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: 'Montserrat', sans-serif;
+}
+.button-2{
+    background: transparent;
+    padding: 10px 36px;
+    border: 1px solid #0D5C63;
+    border-radius: 37px;
+    margin: 10px 0;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #0D5C63;
+    margin: 0 10px;
+}

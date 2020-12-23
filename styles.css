@@ -21,3 +21,8 @@ header{
     justify-content: space-between;
     flex-wrap: nowrap;
 }
+.section-1-nav-div-2{
+    position: absolute;
+    right:  30px;
+    top: 45px;
+}

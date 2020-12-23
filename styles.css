@@ -4,3 +4,7 @@
 body{
     margin: 0;
 }
+header{
+    background-image: url(./image/background-img.png);
+    background-size: cover;
+}

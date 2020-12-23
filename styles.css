@@ -8,3 +8,7 @@ header{
     background-image: url(./image/background-img.png);
     background-size: cover;
 }
+.big-comrainer{
+    margin-left: 160px;
+    margin-right: 160px;
+}

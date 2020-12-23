@@ -158,10 +158,9 @@ main{
     margin-left: 15px;
 }
 
-.section-2-div-2big{
+.section-2-div-2big-div{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 .section-2-div-2-h2{
     font-family: 'Montserrat', sans-serif;
@@ -169,4 +168,14 @@ main{
     line-height: 57px;
     color: #252B42;
     margin-bottom: 0;
+    margin-top: 80px;
+    text-align: center;
+}
+.section-2-div-2-p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #737373;
+    width: 511px;
 }

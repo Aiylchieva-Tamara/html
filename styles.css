@@ -15,8 +15,6 @@ header{
 .big-comrainer{
     margin-left: 160px;
     margin-right: 160px;
-}
-.section-1{
     padding-top: 30px;
 }
 .section-1-nav-div-1{
@@ -52,12 +50,14 @@ header{
 .section-1-nav-div-1 li{
     list-style-type: none;
 }
+ 
 .section-1-div-h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 58px;
     line-height: 80px;
     color: #252B42;
     width: 50%;
+    margin-top: 100px;
 }
 .section-1-div-p{
     width: 376px;

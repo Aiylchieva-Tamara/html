@@ -275,8 +275,8 @@ main{
     width: 597px;
     height: 442px;
 }
-.aligned-left{
-    float: left;
+.section-4-img{
+   float: left;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -285,4 +285,23 @@ main{
     font-size: 40px;
     line-height: 57px;
     color: #252B42;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.section-4-div-p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#img-section-4{
+    width: 30px;
+    height: 30px;
+}
+.section-4-div-1{
+    display: flex;
+    flex-wrap: nowrap;
+
 }

@@ -333,8 +333,12 @@ footer{
 .footer-div-1{
     display: flex;
     justify-content: center;
+    margin-bottom: 100px;
 }
 .footer-div-1 img{
     margin: 20px;
     height: 45px;
+}
+.footer-div-2{
+    background-color:  #17213C;
 }

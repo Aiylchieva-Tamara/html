@@ -179,3 +179,65 @@ main{
     color: #737373;
     width: 511px;
 }
+.section-2-div-3big{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.section-2-div-3big img{
+    display: flex;
+    justify-content: center;
+}
+.section-2-div-3big-2-h2{
+    font-size: 40px;
+    line-height: 57px;
+    color: #252B42;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section-2-div-3big-2-h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #737373;
+}
+.section-2-div-3big-1{
+    background: #FFFFFF;
+    width: 230px;
+    height: 209px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.section-2-div-3big-2{
+    background: #FFFFFF;
+    width: 230px;
+    height: 209px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.section-2-div-3big-3{
+    background: #FFFFFF;
+    width: 230px;
+    height: 209px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.section-2-div-3big-4{
+    background: #FFFFFF;
+    width: 230px;
+    height: 209px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}

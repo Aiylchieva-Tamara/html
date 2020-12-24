@@ -275,3 +275,8 @@ main{
     width: 597px;
     height: 442px;
 }
+.aligned-left{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -299,9 +299,27 @@ main{
 #img-section-4{
     width: 30px;
     height: 30px;
+    margin-right: 10px;
 }
 .section-4-div-1{
     display: flex;
     flex-wrap: nowrap;
+    margin-bottom: 20px;
 
+}
+.section-4-div-1-h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    color: #252B42;
+    margin-top: 0;
+    margin-bottom: 5px;
+    width: 277px;
+}
+.section-4-div-1-h6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #737373;
+    margin: 0;
 }

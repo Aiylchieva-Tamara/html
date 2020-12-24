@@ -267,3 +267,11 @@ main{
     color: #737373;
     width: 160px;
 }
+.section-4{
+    margin-left: -40px;
+    margin-right: -40px;
+}
+.section-4 img{
+    width: 597px;
+    height: 442px;
+}

@@ -13,55 +13,56 @@ header{
     background-size: cover;
 }
 .big-comrainer{
-    margin-left: 160px;
-    margin-right: 160px;
+    margin-left: 183px;
+    margin-right: 183px;
 }
 .section-1{
-    padding-top: 30px;
+    padding-top: 35px;
+    padding-bottom: 200px;
 }
-
-.section-1-nav-div-1{
+.section-1-nav-div-first{
     width: 50%;
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
 }
-.section-1-nav-div-2{
-    position: absolute;
-    right:  30px;
-    top: 45px;
-}
-.section-1-nav-div-1-h3{
+.section-1-nav-div-first-h3{
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 22px;
+    line-height: 30px;
     color: #252B42;
     margin: 0;
 }
-.section-1-nav-div-1 a{
+.nav-a{
     color: #737373;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 24px;
     text-decoration: none;
-    padding: 4px 5px;
+    padding-right: 15px;
 }
-.section-1-nav-div-1 ul {
+.nav-ul {
     margin: 0;
     padding-left: 0;
 }
-.section-1-nav-div-1 li{
+.nav-ul li{
     list-style-type: none;
 }
- 
-
+.section-1-nav-div-second{
+    position: absolute;
+    right:  50px;
+    top: 43px;
+}
+.section-1-div{
+    margin-top: 110px;
+}
 .section-1-div-h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 58px;
-    line-height: 80px;
+    font-size: 55px;
+    line-height: 75px;
     color: #252B42;
     width: 50%;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .section-1-div-p{
     width: 376px;
@@ -69,19 +70,19 @@ header{
     font-size: 20px;
     line-height: 30px;
     color: #737373;
-    margin-top: 35px;
-    margin-bottom: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 .button-1{
     background: #FF7B47;
-    padding: 10px 36px;
+    padding: 8px 34px;
     border: 1px solid #FF7B47;
     border-radius: 37px;
-    margin: 10px 0;
     color: #ffffff;
     font-size: 14px;
     line-height: 28px;
     font-family: 'Montserrat', sans-serif;
+    margin-right: 10px;
 }
 .button-2{
     background: transparent;
@@ -92,47 +93,51 @@ header{
     font-size: 14px;
     line-height: 28px;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     color: #0D5C63;
-    margin: 0 10px;
 }
 
-main{
+.main-1{
     background-color: #FAFAFA;
 }
-.section-2-div{
+.section-2-div-first{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
-.section-2-div img{
+.section-2-div-first img{
     width: 47px;
     height: 40px;
 }
-.section-2-div-1-h3{
+.section-2-div-first-h3{
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     line-height: 32px;
     color: #252B42;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-.section-2-div-3-h3{
+.section-2-div-3-first-h3{
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     line-height: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
-.section-2-div-1-p{
+.section-2-div-first-p{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 20px;
     color: #737373;
 }
-.section-2-div-3-p{
+.section-2-div-3-first-p{
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 20px;
 }
-.section-2-div-1{
+.section-2-div-first-1{
     padding: 35px 40px;
     width: 328px;
     height: 242px;
@@ -140,7 +145,7 @@ main{
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
     margin-right: 15px;
 }
-.section-2-div-2{
+.section-2-div-first-2{
     padding: 35px 40px;
     width: 328px;
     height: 242px;
@@ -149,7 +154,7 @@ main{
     margin-left: 15px;
     margin-right: 15px;
 }
-.section-2-div-3{
+.section-2-div-first-3{
     padding: 35px 40px;
     width: 328px;
     height: 242px;
@@ -157,12 +162,7 @@ main{
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
     margin-left: 15px;
 }
-
-.section-2-div-2big-div{
-    display: flex;
-    justify-content: center;
-}
-.section-2-div-2-h2{
+.section-2-div-second-h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     line-height: 57px;
@@ -171,7 +171,11 @@ main{
     margin-top: 80px;
     text-align: center;
 }
-.section-2-div-2-p{
+.section-2-div-second-div{
+    display: flex;
+    justify-content: center;
+}
+.section-2-div-second-p{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -179,32 +183,30 @@ main{
     color: #737373;
     width: 511px;
 }
-.section-2-div-3big{
+.section-2-div-third{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-top: 50px;
-    margin-bottom: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
-.section-2-div-3big img{
-    display: flex;
-    justify-content: center;
-}
-.section-2-div-3big-2-h2{
+.section-2-div-third-h2{
     font-size: 40px;
     line-height: 57px;
     color: #252B42;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
-.section-2-div-3big-2-h5{
+.section-2-div-third-h5{
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     color: #737373;
+    margin-bottom: 0;
+    margin-top: 5px;
 }
-.section-2-div-3big-1{
+.section-2-div-third-1{
     background: #FFFFFF;
     width: 230px;
     height: 209px;
@@ -212,8 +214,11 @@ main{
     padding-bottom: 40px;
     padding-left: 30px;
     padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.section-2-div-3big-2{
+.section-2-div-third-2{
     background: #FFFFFF;
     width: 230px;
     height: 209px;
@@ -221,8 +226,19 @@ main{
     padding-bottom: 40px;
     padding-left: 30px;
     padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.section-2-div-3big-3{
+.section-2-div-third-1-h2{
+    font-size: 40px;
+    line-height: 57px;
+    color: #252B42;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 18px;
+    margin-bottom: 13px;
+}
+.section-2-div-third-3{
     background: #FFFFFF;
     width: 230px;
     height: 209px;
@@ -230,8 +246,11 @@ main{
     padding-bottom: 40px;
     padding-left: 30px;
     padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.section-2-div-3big-4{
+.section-2-div-third-4{
     background: #FFFFFF;
     width: 230px;
     height: 209px;
@@ -239,26 +258,62 @@ main{
     padding-bottom: 40px;
     padding-left: 30px;
     padding-right: 30px;
-   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
 .section-3{
-    margin-top: 70px;
-    margin-bottom: 70px;
+    padding-top: 40px;
+    padding-bottom: 60px;
 }
 .section-3-div{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-top: 50px;
-    margin-bottom: 80px;
+    margin-top: 25px;
+}
+.section-3-div-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin-right: 15px;
+}
+.section-3-div-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.section-3-div-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.section-3-div-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin-left: 15px;
+}
+.section-3-div-1-small{
+    padding:30px ;
 }
 .section-3-div-h5{
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     color: #252B42;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 .section-3-div-p{
     font-family: 'Montserrat', sans-serif;
@@ -266,26 +321,44 @@ main{
     line-height: 20px;
     color: #737373;
     width: 160px;
+    margin: 0;
+}
+.section-3-div-3-p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #737373;
+    width: 160px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.main-2{
+    background-color: white;
 }
 .section-4{
-    margin-left: 15px;
-    margin-right: -15px;
+    margin-left: 20px;
+    margin-right: -50px;
+}
+.section-4-div--big{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    margin-bottom: 130px;
 }
 .section-4 img{
     width: 597px;
     height: 442px;
 }
-.section-4-img{
-   float: left;
-    margin-left: 20px;
-    margin-right: 20px;
+.section-4-div{
+    margin-left: 90px;
 }
 .section-4-div-h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     line-height: 57px;
     color: #252B42;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 0;
 }
 .section-4-div-p{
@@ -293,19 +366,26 @@ main{
     font-size: 14px;
     line-height: 20px;
     color: #737373;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 #img-section-4{
     width: 30px;
     height: 30px;
-    margin-right: 10px;
 }
-.section-4-div-1{
+.section-4-div-1-01{
     display: flex;
     flex-wrap: nowrap;
-    margin-bottom: 20px;
-
+    margin-bottom: 40px;
+}
+.section-4-div-1-02{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.section-4-div-1-img{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 20px;
 }
 .section-4-div-1-h5{
     font-family: 'Montserrat', sans-serif;
@@ -322,23 +402,23 @@ main{
     line-height: 24px;
     color: #737373;
     margin: 0;
-    margin-bottom: 50px;
 }
-.main-2{
-    background-color: white;
-}
+
 footer{
     background-color: #FAFAFA;
 }
-.footer-div-1{
+.footer-div-first{
     display: flex;
     justify-content: center;
-    margin-bottom: 100px;
+    padding-top: 50px;
+    margin-bottom: 170px;
 }
-.footer-div-1 img{
-    margin: 20px;
-    height: 45px;
+.footer-div-first img{
+    margin: 30px;
+    height: 50px;
 }
-.footer-div-2{
+.footer-div-second{
     background-color:  #17213C;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }

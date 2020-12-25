@@ -433,3 +433,6 @@ footer{
     color: white;
     margin-bottom: 20px;
 }
+#footer-div-second-1 ul {
+    padding-left: 0;
+}

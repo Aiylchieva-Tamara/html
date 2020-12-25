@@ -99,6 +99,8 @@ header{
 
 .main-1{
     background-color: #FAFAFA;
+    position: relative;
+    bottom: 100px ;
 }
 .section-2-div-first{
     display: flex;

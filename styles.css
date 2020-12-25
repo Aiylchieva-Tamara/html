@@ -439,3 +439,12 @@ footer{
 #footer-div-second-1 li{
     list-style-type: none;
 }
+#footer-div-second-1 a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

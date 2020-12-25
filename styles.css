@@ -449,5 +449,13 @@ footer{
     margin-top: 20px;
 }
 #footer-div-second-1{
-    margin-right: 70px;
+    margin-right: 60px;
+}
+.small-div-footer{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 15px;
+}
+.small-div-footer img{
+    margin-right: 10px;
 }

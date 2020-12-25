@@ -460,6 +460,16 @@ footer{
     margin-right: 10px;
 }
 .footer-div-third{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+.footer-div-third-h6{
+    color: #737373;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
 }

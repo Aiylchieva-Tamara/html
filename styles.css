@@ -436,3 +436,6 @@ footer{
 #footer-div-second-1 ul {
     padding-left: 0;
 }
+#footer-div-second-1 li{
+    list-style-type: none;
+}

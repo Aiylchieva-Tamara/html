@@ -367,12 +367,12 @@ nav{
     margin-top: 75px;
     margin-bottom: 130px;
 }
-.section-4-pho{
-    width: 597px;
-    height: 422px;
-}
 .section-4-div{
     margin-left: 100px;
+}
+.section-4-phoret{
+    width:598px ;
+    height: 442px;
 }
 .section-4-div-h2{
     font-family: 'Montserrat', sans-serif;
@@ -519,7 +519,7 @@ footer{
         flex-wrap: wrap;
         justify-content: center;
     }
-    .a1{
+    .are{
         margin-left: 50px;
         margin-right: 50px;
     }
@@ -667,9 +667,13 @@ footer{
         flex-direction: column;
         justify-content: center;
     }
-    .section-4-pho{
-        width: 390px;
-        height: 222px;
+    .section-4-phoret img{
+        width: 398px;
+        height: 224px;
+    }
+    .section-4-phoret {
+        width: 398px;
+        height: 224px;
     }
     .div-big{
         display: flex;

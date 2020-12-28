@@ -453,22 +453,20 @@ footer{
     color: white;
     margin-bottom: 15px;
 }
-#footer-div-second-1 ul {
+.section-5 ul {
     padding-left: 0;
 }
-#footer-div-second-1 li{
+.section-5 li{
     list-style-type: none;
     padding-top: 4px;
     padding-bottom: 4px;
 }
-#footer-div-second-1 a{
+.section-5 a{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 24px;
     text-decoration: none;
     color: white;
-}
-#footer-div-second-1{
 }
 .small-div-footer{
     display: flex;

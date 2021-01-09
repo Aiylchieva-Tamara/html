@@ -517,7 +517,7 @@ footer{
     .section-5{
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: flex-start;
     }
     .are{
         margin-left: 50px;
@@ -703,11 +703,18 @@ footer{
         margin-right: 100px;
     }
 }
-@media (max-width:600px){
+@media (max-width:530px){
     .big-comrainer{
         margin-left: 50px;
         margin-right: 50px;
     }
+}
+@media (max-width:630px){
+    .section-5{
+        padding-left: 70px;
+    }
+}
+@media (max-width:600px){
     .button{
         display: flex;
         flex-direction: column;
@@ -719,4 +726,10 @@ footer{
     .button-2{
         margin: 15px;
      }
+     .section-1-nav-div-first-h3{
+         display: flex;
+         justify-content: flex-start;
+        margin-bottom: 20px;
+    }
+    
 }

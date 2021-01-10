@@ -524,7 +524,7 @@ footer{
     .section-5{
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        justify-content: center;
     }
     .are{
         margin-left: 50px;
